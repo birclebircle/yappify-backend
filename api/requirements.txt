@@ -1,0 +1,5 @@
+gunicorn==21.2.0
+flake8==6.0.0
+djlint==1.32.0
+Django==4.2.3
+black==23.7.0
